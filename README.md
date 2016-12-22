@@ -1,8 +1,6 @@
-# badJsReport.js
-前端js异常上报
+# badJsReport.js 前端js异常上报
 
 使用方法：
-
 
 1、将badJsReport.js加载到其他的js之前
 
