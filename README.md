@@ -12,6 +12,7 @@ badJsReport({
   url:'http://www.baidu.com',  //发送到后台的url  *必须
 })
 
+
 3、如果需要新增上报参数，或者要知道发送给后台的回调。可以用下面的方法
 
 badJsReport({
@@ -26,6 +27,7 @@ badJsReport({
   },
   
   failCallBack:function(error){
+  
       // 发送给后台失败的回调，-可省略
   }
 })
