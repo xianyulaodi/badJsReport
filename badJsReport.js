@@ -1,7 +1,7 @@
 /**
  * Name:    badJsReport.js
  * Version  1.1.0
- * Auchor   xiangyulaodi
+ * Author   xiangyulaodi
  * Address: https://github.com/xianyulaodi/badJsReport
  * Released on: December 22, 2016
  */
