@@ -134,8 +134,7 @@
                      }
                      fn = fn.caller;
                   }
-                  ext = ext.join(",");
-                  defaults.msg = error.stack.toString();
+                  defaults.msg = ext.join(",");
                 }
                 // 合并上报的数据，包括默认上报的数据和自定义上报的数据
                 var reportData=extendObj(params.data || {},defaults);
